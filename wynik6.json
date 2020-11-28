@@ -1,0 +1,410 @@
+﻿[
+  {
+    "act.name": "Keanu Reeves",
+    "count(mvs)": 7
+  },
+  {
+    "act.name": "Carrie-Anne Moss",
+    "count(mvs)": 3
+  },
+  {
+    "act.name": "Laurence Fishburne",
+    "count(mvs)": 3
+  },
+  {
+    "act.name": "Hugo Weaving",
+    "count(mvs)": 5
+  },
+  {
+    "act.name": "Emil Eifrem",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Charlize Theron",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Al Pacino",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Tom Cruise",
+    "count(mvs)": 3
+  },
+  {
+    "act.name": "Jack Nicholson",
+    "count(mvs)": 5
+  },
+  {
+    "act.name": "Demi Moore",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Kevin Bacon",
+    "count(mvs)": 3
+  },
+  {
+    "act.name": "Kiefer Sutherland",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Noah Wyle",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Cuba Gooding Jr.",
+    "count(mvs)": 4
+  },
+  {
+    "act.name": "Kevin Pollak",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "J.T. Walsh",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "James Marshall",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Christopher Guest",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Aaron Sorkin",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Kelly McGillis",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Val Kilmer",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Anthony Edwards",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Tom Skerritt",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Meg Ryan",
+    "count(mvs)": 5
+  },
+  {
+    "act.name": "Renee Zellweger",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Kelly Preston",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Jerry O'Connell",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Jay Mohr",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Bonnie Hunt",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Regina King",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Jonathan Lipnicki",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "River Phoenix",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Corey Feldman",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Wil Wheaton",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "John Cusack",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Marshall Bell",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Helen Hunt",
+    "count(mvs)": 3
+  },
+  {
+    "act.name": "Greg Kinnear",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Annabella Sciorra",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Max von Sydow",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Werner Herzog",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Robin Williams",
+    "count(mvs)": 3
+  },
+  {
+    "act.name": "Ethan Hawke",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Rick Yune",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "James Cromwell",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Parker Posey",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Dave Chappelle",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Steve Zahn",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Tom Hanks",
+    "count(mvs)": 12
+  },
+  {
+    "act.name": "Rita Wilson",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Bill Pullman",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Victor Garber",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Rosie O'Donnell",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Nathan Lane",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Billy Crystal",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Carrie Fisher",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Bruno Kirby",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Liv Tyler",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Brooke Langton",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Gene Hackman",
+    "count(mvs)": 3
+  },
+  {
+    "act.name": "Orlando Jones",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Christian Bale",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Zach Grenier",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Richard Harris",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Clint Eastwood",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Takeshi Kitano",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Dina Meyer",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Ice-T",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Halle Berry",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Jim Broadbent",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Ian McKellen",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Audrey Tautou",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Paul Bettany",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Natalie Portman",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Stephen Rea",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "John Hurt",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Ben Miles",
+    "count(mvs)": 3
+  },
+  {
+    "act.name": "Emile Hirsch",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "John Goodman",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Susan Sarandon",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Matthew Fox",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Christina Ricci",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Rain",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Naomie Harris",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Michael Clarke Duncan",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "David Morse",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Sam Rockwell",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Gary Sinise",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Patricia Clarkson",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Frank Langella",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Michael Sheen",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Oliver Platt",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Danny DeVito",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "John C. Reilly",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Ed Harris",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Bill Paxton",
+    "count(mvs)": 3
+  },
+  {
+    "act.name": "Philip Seymour Hoffman",
+    "count(mvs)": 2
+  },
+  {
+    "act.name": "Diane Keaton",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Julia Roberts",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Madonna",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Geena Davis",
+    "count(mvs)": 1
+  },
+  {
+    "act.name": "Lori Petty",
+    "count(mvs)": 1
+  }
+]

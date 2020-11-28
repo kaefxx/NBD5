@@ -1,0 +1,8 @@
+1. MATCH (mv:Movie) RETURN mv
+2. MATCH (hugo:Person {name: "Hugo Weaving"})-[:ACTED_IN]->(mv) RETURN mv
+3. MATCH (hugo:Person {name: "Hugo Weaving"})-[:ACTED_IN]->(mv)<-[:DIRECTED]-(dr) RETURN dr
+4. MATCH (mv:Movie {title: "The Matrix"})<-[:ACTED_IN]-(act) RETURN act
+5. MATCH (mv:Movie {title: "The Matrix"})<-[:ACTED_IN]-(act)-[:ACTED_IN]->(mvs) RETURN mvs
+6. MATCH (act:Person)-[:ACTED_IN]->(mvs) RETURN DISTINCT act.name, count(mvs)
+7. MATCH (act:Person)-[:WROTE]->(mvs)<-[:DIRECTED]-(act) return mvs, act
+8. MATCH (act:Person {name: "Hugo Weaving"})-[:ACTED_IN]->(mvs)<-[:ACTED_IN]-(act1:Person {name: "Keanu Reeves"}) RETURN mvs
